@@ -8,8 +8,3 @@ data on burning
 loadinga
 layer
 as
-a 
-aa
-aa
-aa
-   
