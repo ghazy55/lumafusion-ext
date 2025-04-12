@@ -7,10 +7,4 @@ create the meta
 data on burning
 loadinga
 layer
-as
-aa
-a
-a
-a
-a
 a
