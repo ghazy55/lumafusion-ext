@@ -7,9 +7,4 @@ create the meta
 data on burning
 loadingaye
 layer
-aas
-at
-aa
-aa
-a
-a
+meta
