@@ -1,4 +1,4 @@
-jia anew lumafusion-ext
+ajia anew lumafusion-ext
 play
 instalasion 1
 in progress
