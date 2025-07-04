@@ -7,7 +7,7 @@ create the meta
 data on burning
 loadingaye
 layer
-metaadz
+metaadza
 uteaas1256
 astyaap
 aaa
