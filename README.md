@@ -16,7 +16,7 @@ aaa
 a1a
 aaaa
 aa4a
-a
+aa
 aw
 a1a
 aaaza
