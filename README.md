@@ -1,4 +1,4 @@
-aaajia anew lumafusion-ext
+aajia anew lumafusion-ext
 play
 instalasion 1
 in progress
@@ -16,7 +16,7 @@ aaa
 a1a
 aaaa
 aa4a
-aa
+aaa
 aw
 a1a
 aaaza
