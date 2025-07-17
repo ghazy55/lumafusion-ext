@@ -20,4 +20,5 @@ aaa
 aw
 a1a
 aaaza
-ba
+bas
+a
