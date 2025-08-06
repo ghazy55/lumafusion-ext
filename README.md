@@ -2,7 +2,7 @@ aajia anew lumafusion-ext
 play
 instalasion 1
 in progress
-loading
+loadingas
 create the meta
 data on burning
 loadingayea
